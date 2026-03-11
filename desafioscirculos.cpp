@@ -1,6 +1,6 @@
-#include <iostream> //biblioteca para ter uma tela
-#include <cmath> //biblioteca para usar raiz, potencia e etc
-#include <iomanip> //biblioteca para usar setpreciion
+#include <iostream>
+#include <cmath>
+#include <iomanip>
 using namespace std;
 
 int main(){
